@@ -11,3 +11,5 @@
 009_NotificationPassValue     通知，发送通知，注册通知的响应，可以传递任意对象作为参数
 010_SandBox                        获取沙盒路径
 011_SaveData                        数据存储：1、存储为plist属性列表  2、使用NSUserDefaults存储数据
+
+020_MyAlamofire                   Alamofire使用
