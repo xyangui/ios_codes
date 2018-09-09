@@ -1,4 +1,5 @@
 # ios_codes
+carthage update --platform iOS
 目录
 001_StoryBoardAdaptive        自动布局适配，三等分显示view，只有界面，无程序
 002_FirstSwift                      循环，字符串，数组，字典，函数
