@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  MyMoya
 //
-//  Created by Jason on 2018/9/9.
-//  Copyright © 2018年 Jason. All rights reserved.
+//  Created by Jason on 14/9/18.
+//  Copyright © 2018 Jason. All rights reserved.
 //
 
 import UIKit
